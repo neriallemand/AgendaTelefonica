@@ -12,3 +12,5 @@ Implementação de uma agenda em C++.
 - Mudanças que serão feitas num futuro breve: 
 
    * Implementação de metodos de Salvar/Carregar a agenda em um arquivo;
+
+- Foram criados na main ambos o conjunto de operações pedidos pela questão, e um loop para possibilitar um conjunto de testes maior sem necessitar recompilar o código multiplas vezes
